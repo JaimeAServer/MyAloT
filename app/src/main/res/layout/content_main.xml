@@ -144,7 +144,7 @@
                     android:id="@+id/textView554" />
                 <ScrollView android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:id="@+id/scrollView"
+                    android:id="@+id/ScrollViewEstado"
                     android:layout_gravity="center_horizontal" >
                     <TextView android:layout_width="fill_parent"
                         android:layout_height="fill_parent"
